@@ -1,6 +1,6 @@
 # Backend Tutorial – Node.js & Express
 
-**Developed by:** Uddeshya
+**Developed by:** Uddeshya Dwivedi
 
 ## About the Project
 
@@ -75,7 +75,7 @@ The API endpoints can be tested using Postman.
 
 ## Author
 
-**Uddeshya**
+**Uddeshya Dwivedi**
 
 GitHub: https://github.com/uddeshyadwivedi55-commits
 
